@@ -34,7 +34,7 @@ You agree to defend, indemnify and hold harmless Blustone Developers and its lic
 Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 Blustone Developers, its subsidiaries, affiliates, and licensors make no warranty that:
    * The Service will function uninterrupted, secure, or available at any particular time or location
-any errors or defects will be corrected
+   * Any errors or defects will be corrected
    * The Service is free of viruses or other harmful components
    * The results of using the Service will meet your expectations.
 
