@@ -17,5 +17,5 @@ Mother Fox's important documents are found and stored here for everyone to see. 
 * **Yes, we love seeing people get involved with mother more! Join our [Discord Server](https://discord.gg/Cv47ehMhWW) we post updates in   `🦊│mother-fox-updates` ~ Jamie**
 
 ### Contact Us
-> For any questions or any concerns about what data might be stored from your account contact @Foxxy-Jamie or the [Discord Server](https://discord.gg/Cv47ehMhWW).
+> For any questions or any concerns contact @Foxxy-Jamie or the [Discord Server](https://discord.gg/Cv47ehMhWW).
 
