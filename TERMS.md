@@ -1,5 +1,6 @@
 # TERMS OF SERVICE
 ![Terms and conditions](https://img.shields.io/badge/Terms_and_Conditions-blue)
+
 Last updated: 11/6/2022
 
 ## Table of Contents
