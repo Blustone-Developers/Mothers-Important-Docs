@@ -1,7 +1,7 @@
 # TERMS OF SERVICE
 ![Terms and conditions](https://img.shields.io/badge/Terms_and_Conditions-blue)
 
-Last updated: 11/6/2022
+Last updated: 15/6/2022
 
 ## Table of Contents
 -  TERMS OF SERVICE
@@ -38,7 +38,7 @@ Blustone Developers, its subsidiaries, affiliates, and licensors make no warrant
    * The Service will function uninterrupted, secure, or available at any particular time or location
    * Any errors or defects will be corrected
    * The Service is free of viruses or other harmful components
-   * The results of using the Service will meet your expectations.
+   * The results of using the Service will meet your expectations
 
 ## Exclusions
 The restrictions above may not apply to you because some countries do not allow the exclusion of certain warranties or the exclusion or limitation of responsibility for consequential or incidental damages.
