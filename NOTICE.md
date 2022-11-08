@@ -19,13 +19,13 @@ The Service known as Mother Fox will be going under important maintenance. Due t
 ## The Changes
 Mother Fox was developed with love for all people using [Discord](https://discord.com) and we wish to continue that ideal. Before Mother Fox can be verified, we have to undergo much needed maintenance. The changes that are planned to be undertaken are as follows:
 
- - Hosting 
+ - Hosting 
  
-    > Currently Mother Fox is hosted on a unreliable platform, which can lead to Mother Fox turning off for a rather long time. This has been a issue in the works for a while. The Blustone developers work on free applications for the community, so it does come out of our own pocket. We will be choosing a more reliable platform that we can trust to maintain Mother Fox's good reputation.
+   > Currently Mother Fox is hosted on a unreliable platform, which can lead to Mother Fox turning off for a rather long time. This has been a issue in the works for a while. The Blustone developers work on free applications for the community, so it does come out of our own pocket. We will be choosing a more reliable platform that we can trust to maintain Mother Fox's good reputation.
 
- - Music
+ - Music
  
-   > Mothers' Music is a good area that everyone loves about Mother Fox. We regretfully inform you that due to [Discord](https://discord.com) TOS. We will be forced to remove it. All in all, this is a work in progress. We hope to bring music back in the future if we can get support from big companies.
+   > Mothers' Music is a good area that everyone loves about Mother Fox. We regretfully inform you that due to [Discord](https://discord.com) TOS. We will be forced to remove it. All in all, this is a work in progress. We hope to bring music back in the future if we can get support from big companies.
  
  - Currency System
 
