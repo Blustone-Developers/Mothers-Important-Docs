@@ -21,3 +21,15 @@ Mother Fox's important documents are found and stored here for everyone to see. 
 ### Contact Us
 > For any questions or any concerns contact @Foxxy-Jamie or the [Discord Server](https://discord.gg/Cv47ehMhWW).
 
+### Links
+
+ - To Follow for more updates go to our Trello board!
+   > https://trello.com/b/B4fJAUjQ/mothers-updates
+
+ - Follow the Mothers Docs!
+   > https://github.com/Blustone-Developers/Mothers-Important-Docs/tree/main
+
+ - Remember to read Mothers Documentation!
+   > https://github.com/Blustone-Developers/Mothers-Important-Docs/wiki
+ 
+
